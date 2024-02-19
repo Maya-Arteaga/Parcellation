@@ -1,4 +1,6 @@
-Parcellation and Sampling: An Examination at Mesoscopic and Microscopic Levels
+                                              Parcellation and Sampling: An Examination at Mesoscopic and Microscopic Levels
+
+
 
 This project aims to address the unbiased identification of regions of interest by applying computational algorithms to images obtained through microscopy using 10x objectives. Subsequently, microscopic-level sampling is conducted using 40x objectives using the MorphoGlia tool.
 
