@@ -1,4 +1,4 @@
-                                              Parcellation and Sampling: An Examination at Mesoscopic and Microscopic Levels
+                          Parcellation and Sampling: An Examination at Mesoscopic and Microscopic Levels
 
 
 
