@@ -4,6 +4,7 @@ This project aims to address the unbiased identification of regions of interest 
 
 Here, we are implementing the HDBSCAN algorithm on images. To achieve this, it is necessary to convert the images into numpy arrays to utilize this clustering method, and then reconvert these arrays back into images while preserving pixel isometry.
 
+This is an example utilizing simulated points generated with the NumPy library in Python.
 
 
 
@@ -12,5 +13,6 @@ Here, we are implementing the HDBSCAN algorithm on images. To achieve this, it i
 
 
 
+This is an example demonstrating its usage using a fluorescence image acquired through widefield microscopy:
 
 ![Parcellation](https://github.com/Maya-Arteaga/Parcellation/assets/70504322/23aedb26-2d8b-4fb0-865c-f52e34be6c98)
