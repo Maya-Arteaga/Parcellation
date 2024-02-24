@@ -16,6 +16,7 @@ This is an example utilizing simulated points generated with the NumPy library i
 
 
 
-This is an example demonstrating its usage using a fluorescence image acquired through widefield microscopy:
+
+This example demonstrates its usage using a fluorescence image acquired through widefield microscopy. Note that the preprocessing of the images does not convert the image to binary; instead, it is left in grayscale to better delineate highly clustered regions.
 
 ![Parcellation](https://github.com/Maya-Arteaga/Parcellation/assets/70504322/23aedb26-2d8b-4fb0-865c-f52e34be6c98)
